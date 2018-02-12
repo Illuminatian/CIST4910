@@ -1,9 +1,8 @@
 # CIST4910
-<<<<<<< HEAD
+
 CIST 4910 
 
 This is Jason's update to the README.md file.
-=======
 Quick change for CIST 4910. Neat.
  
 # License 
